@@ -3,7 +3,6 @@ import BottomIcons from "./BottomIcons";
 import TopIcons from "./TopIcons";
 import FoodCards from "./FoodCards";
 import Banner from "./Banner";
-Banner;
 export default function Home() {
   let history = useHistory();
 
