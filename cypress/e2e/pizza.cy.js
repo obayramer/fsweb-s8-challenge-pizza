@@ -30,7 +30,7 @@ describe('Order Form', () => {
       
       // Fill in required fields
       cy.get('input[name="fullname"]').type('Ömer Bayram');
-      cy.get('input[name="pizzaSize"][value="Small"]').check();//hatalı
+      cy.get('input[name="pizzaSize"][value="Small"]').check();
       cy.get('select[name="pizzaHamur"]').select('Klasik Hamur');
       
       // Add minimum required ingredients
