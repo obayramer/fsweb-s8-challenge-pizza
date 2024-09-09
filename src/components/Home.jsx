@@ -59,7 +59,7 @@ export default function Home() {
                 type="button"
                 onClick={handleClick}
               >
-                SİPARİŞ VER{" "}
+                SİPARİŞ VER
               </button>
             </div>
           </div>

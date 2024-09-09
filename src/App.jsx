@@ -21,6 +21,9 @@ function App() {
           <FormPage />
           <Footer menuTitle="Hot Menu" /> 
         </Route>
+        <Route path="/secenekler">
+        <Footer menuTitle="Hot Menu"/>
+        </Route>
         <Route path="/siparisOzeti" component={OrderSummary} />
         <Route path="/errorPage" component={ErrorPage} />
       </Switch>
