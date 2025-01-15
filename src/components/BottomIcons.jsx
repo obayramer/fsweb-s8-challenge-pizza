@@ -2,12 +2,12 @@ import { useHistory } from "react-router-dom";
 export default function BottomIcons() {
   const history = useHistory();
   const icons = [
-    { path: "./Iteration-2-aseets/icons/1.svg", val: "Ramen" },
-    { path: "./Iteration-2-aseets/icons/2.svg", val: "Pizza" },
-    { path: "./Iteration-2-aseets/icons/3.svg", val: "Burger" },
-    { path: "./Iteration-2-aseets/icons/4.svg", val: "French Fries" },
-    { path: "./Iteration-2-aseets/icons/5.svg", val: "Fast Food" },
-    { path: "./Iteration-2-aseets/icons/6.svg", val: "Soft Drinks" },
+    { path: "./Iteration-2-asets/icons/1.svg", val: "Ramen" },
+    { path: "./Iteration-2-assets/icons/2.svg", val: "Pizza" },
+    { path: "./Iteration-2-assets/icons/3.svg", val: "Burger" },
+    { path: "./Iteration-2-assets/icons/4.svg", val: "French Fries" },
+    { path: "./Iteration-2-assets/icons/5.svg", val: "Fast Food" },
+    { path: "./Iteration-2-assets/icons/6.svg", val: "Soft Drinks" },
   ];
   const handleClick = () => {
     history.push("/siparisFormu");

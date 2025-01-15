@@ -5,21 +5,21 @@ export default function FoodCards() {
   const paths = [
     {
       name: "Terminal Pizza",
-      url: "./Iteration-2-aseets/pictures/food-1.png",
+      url: "./Iteration-2-assets/pictures/food-1.png",
       fiyat: "60₺",
       puan: "4.9",
       view: "(200)",
     },
     {
       name: "Position Absolute Acı Pizza",
-      url: "./Iteration-2-aseets/pictures/food-2.png",
+      url: "./Iteration-2-assets/pictures/food-2.png",
       fiyat: "85₺",
       puan: "4.9",
       view: "(928)",
     },
     {
       name: "useEffect Tavuklu Burger",
-      url: "./Iteration-2-aseets/pictures/food-3.png",
+      url: "./Iteration-2-assets/pictures/food-3.png",
       fiyat: "75₺",
       puan: "4.9",
       view: "(462)",

@@ -3,7 +3,7 @@ export default function FormBanner() {
   return (
     <div className="form-banner">
       <div className="image-banner">
-        <img src="./Iteration-2-aseets/pictures/form-banner.png" alt="" />
+        <img src="./Iteration-2-assets/pictures/form-banner.png" alt="" />
       </div>
       <div className="nav-container">
         <Nav>
