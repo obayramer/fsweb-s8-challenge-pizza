@@ -53,7 +53,7 @@ export default function Footer({ menuTitle }) {
         </div>
       </div>
       <div className="copyrigt">
-        <p>© 2023 Teknolojik Yemekler.</p>
+        <p>© 2025 Teknolojik Yemekler.</p>
         <FontAwesomeIcon icon={faTwitter} size="2x" className="twitter-icon" />
       </div>
     </footer>

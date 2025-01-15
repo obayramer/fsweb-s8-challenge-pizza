@@ -2,7 +2,7 @@ import { useHistory } from "react-router-dom";
 export default function BottomIcons() {
   const history = useHistory();
   const icons = [
-    { path: "./Iteration-2-asets/icons/1.svg", val: "Ramen" },
+    { path: "./Iteration-2-assets/icons/1.svg", val: "Ramen" },
     { path: "./Iteration-2-assets/icons/2.svg", val: "Pizza" },
     { path: "./Iteration-2-assets/icons/3.svg", val: "Burger" },
     { path: "./Iteration-2-assets/icons/4.svg", val: "French Fries" },
