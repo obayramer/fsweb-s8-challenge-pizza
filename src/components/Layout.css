@@ -10,7 +10,7 @@
   }
   
   .banner {
-    background-image: url("./Iteration-1-assets/homebanner.png");
+    background-image: url("../assets/Iteration-1-assets/homebanner.png");
     height: 90vh;
     width: 100vw;
     background-size: cover;
@@ -246,7 +246,7 @@
   }
   
   .ozel-lezzetus {
-    background-image: url('./Iteration-2-assets/cta/kart-1.png');
+    background-image: url('../assets/Iteration-1-assets/cta/kart-1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -273,7 +273,7 @@
   
   .hackathlon {
     height: 25vh;
-    background-image: url('./Iteration-2-assets/cta/kart-2.png');
+    background-image: url('../assets/Iteration-1-assets/cta/kart-2.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -290,7 +290,7 @@
   
   .npm {
     height: 25vh;
-    background-image: url('./Iteration-2-assets/cta/kart-3.png');
+    background-image: url('../assets/Iteration-1-assets/cta/kart-3.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
